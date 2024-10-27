@@ -1,8 +1,4 @@
-# blank
+# Payload CMS Blog
+Kapan di-update? dan kapan di-deploy?
 
-blank
-
-## Attributes
-
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+Secepatnya gais, karena ini belum konfigurasi SEO
